@@ -499,16 +499,47 @@ Potential extensions include:
 
 ## Charles Akintola Walton
 
-Data Analyst | Business Intelligence Analyst | Python Developer
+**Data Analyst | Business Intelligence Analyst | Python Developer**
 
-### Connect
+Passionate about transforming raw data into actionable business insights through SQL, Power BI, Python, and Business Intelligence solutions. Experienced in data analysis, dashboard development, ETL processes, reporting automation, and data-driven decision-making.
 
-- LinkedIn: [Add Your LinkedIn URL]
-- GitHub: [Add Your GitHub URL]
-- Portfolio: [Add Portfolio URL]
+### Connect With Me
+
+- 🌐 Portfolio: https://cwalton133.github.io/data-portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/cwalton1335
+- 💻 GitHub: https://github.com/cwalton133
+- 📧 Email: cwalton1335@gmail.com
+
+---
+### Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://cwalton133.github.io/data-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cwalton1335)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/cwalton133)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:cwalton1335@gmail.com)
+
+### Featured Skills
+
+- SQL & Database Analytics
+- Power BI Dashboard Development
+- Python for Data Analysis
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Business Intelligence & Reporting
+- KPI Development & Performance Monitoring
+- Data Visualization & Storytelling
+- ETL Processes & Data Pipelines
+- Statistical Analysis
 
 ---
 
-# License
+### Portfolio Focus Areas
 
-This project is intended for educational, portfolio, and professional demonstration purposes.
+- Business Intelligence Projects
+- Data Analytics Case Studies
+- SQL Portfolio Projects
+- Power BI Dashboards
+- Python Data Analysis Projects
+- Financial & Operational Analytics
+- Customer Behavior Analysis
+- Revenue Optimization Analytics
